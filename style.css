@@ -1,0 +1,15 @@
+/*Style for body*/
+body{
+  text-align:center;
+  font-family:cursive;
+  color:aqua;
+    background-color:purple;
+}  
+/*Style for paragraph tag*/
+#firstp{
+  word-spacing: 15px;
+  font-variant: large-caps;
+  text-align: center;
+  font-size: 60px;
+}
+
